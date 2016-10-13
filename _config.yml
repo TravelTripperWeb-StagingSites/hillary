@@ -1,4 +1,8 @@
 
+gems:
+- jekyll-sitemap
+
+
 hotel_id: '197470'
 
 api_header_key: 'x-api-key'
